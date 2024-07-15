@@ -24,7 +24,7 @@ const Header = () => {
         </div>
 
         <button className='mt-4 md:mt-0 md:ml-12'>
-          <a href="https://bit.ly/Gourob_Nandi" target="_blank" rel="noreferrer" className="btn2" id='button2'>
+          <a href="https://resume.gourobnandi.com" target="_blank" rel="noreferrer" className="btn2" id='button2'>
             <span className="spn2">Resume</span>
           </a>
         </button>
